@@ -1,0 +1,35 @@
+_repo: A-Handbook-of-Some-South-Indian-Grasses_24063
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tadulinga Mudaliyar, C.
+    gutenberg_agent_id: '26216'
+    url: http://www.gutenberg.org/2009/agents/26216
+  - agent_name: Rangachari, K.
+    aliases:
+    - Rangachariyar, Kadambi
+    - Rangachar, K.
+    - Rangachariyar, Kadambi, Dewan Bahadur
+    gutenberg_agent_id: '26215'
+    url: http://www.gutenberg.org/2009/agents/26215
+description: ''
+gutenberg_bookshelf:
+- India
+- Botany
+gutenberg_issued: '2007-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grasses -- India, South'
+- !lcc 'QK'
+- !lcsh 'Plants -- India, South'
+title: A Handbook of Some South Indian Grasses
+url: http://www.gutenberg.org/ebooks/24063
